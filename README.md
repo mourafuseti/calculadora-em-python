@@ -56,10 +56,7 @@ Uma calculadora elegante e totalmente funcional desenvolvida em **Python** utili
 
 ## Captura de Tela
 
-> *(Substitua pelo caminho real da imagem após tirar um print)*
-
-```markdown
-![Demonstração](screenshot.png)
+![Calculadora Bonita](https://raw.githubusercontent.com/mourafuseti/calculadora-em-python/main/tela.png)
 ```
 
 ---
