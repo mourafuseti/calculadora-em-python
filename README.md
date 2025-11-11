@@ -75,7 +75,7 @@ Uma calculadora elegante e totalmente funcional desenvolvida em **Python** utili
 
 1. **Clone ou baixe este repositório**
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-bonita.git
+  git clone https://github.com/seu-usuario/calculadora-bonita.git
    cd calculadora-bonita
    ```
 
